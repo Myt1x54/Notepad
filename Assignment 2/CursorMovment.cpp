@@ -5,7 +5,6 @@ where the actual words are being stored after those extra nodes please look into
 #include <iostream>
 #include <fstream>
 #include <filesystem>
-#define NOMINMAX
 #include <Windows.h>
 
 class TwoDDLinkedList;
